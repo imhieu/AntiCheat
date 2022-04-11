@@ -1,0 +1,13 @@
+name: Lighter
+main: com.lighter.main.Main
+description: The most powerful Anticheat with the best price/quality ratio.
+version: 1.3
+author: Lighter Entreprise
+commands:
+  alerts:
+  devalerts:
+  anticheat:
+  logs:  
+  perf:
+  acping:
+  veltest:
